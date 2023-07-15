@@ -1,0 +1,9 @@
+☐ Want to create register and login api using express.js
+☐ Register api 
+->email, name, password
+->store in the database
+-> start the server
+☐ login api
+->access the database
+->if user found- login 
+->else - error
